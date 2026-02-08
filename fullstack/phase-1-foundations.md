@@ -338,8 +338,8 @@ JavaScript Course for Beginners – Your First Step to Web Development: [https:/
 
 > **Proyecto**
 *Puedes usar IA para que te asista y ver cómo lo construye y que te explique cómo lo hizo.
-Crea tres versiones de un mismo proyecto:
-Version 1.0.0: Construye o pídele que construya un sitio web con HTML, CSS y JavaScript puro (Vanilla JS), sin librerías, solo manipulación de DOM (DOMScripting) y que utilice técnicas como Mutation Observer, DOMContentLoaded, fetch, async/await, try/catch para consumir una API pública.*
+Crea la primera versión de un proyecto de sitio web:
+Version 1.0.0: Construye o pídele que construya un sitio web con HTML, CSS y JavaScript puro (Vanilla JS), sin librerías, solo manipulación de DOM (DOM Scripting) y que utilice técnicas como Mutation Observer, DOMContentLoaded, fetch, async/await, try/catch para consumir una API pública.*
 > 
 
 ## **Recursos de rutas completas Full Stack Web Development**
