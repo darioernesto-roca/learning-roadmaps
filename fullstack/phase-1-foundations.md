@@ -166,7 +166,7 @@ HTML tutorial for beginners: [https://www.youtube.com/watch?v=2oCN2q1x3c4&list=P
 *En este punto deberías poder leer una página web sin CSS y entender su estructura, jerarquía y propósito. Al crear un documento HTML cada elemento debe ser claro en su identidad y propósito y cualquier otro desasrrollador debería poderlo analizar sin tener que preguntarte.*
 > 
 
-### CSS Estilos modernos y mantenibles
+### CSS - Estilos modernos y mantenibles
 
 - [ ]  Qué es CSS y cómo funciona
 - [ ]  Cómo enlazar CSS a HTML
@@ -206,7 +206,7 @@ CSS tutorial for beginners: [https://www.youtube.com/watch?v=xv-bBxaa7WU&list=PL
 
 ## JavaScript - Fundamentos sin frameworks
 
-> *Esta es la parte más compleja, cuando empiezas a mirar cómo se programa y cómo se usa la lógica de programación. Te recomiendo que avances al backend solo después de entender este bloque de fundamentos de JavaScript .*
+> *Esta es la parte más compleja, cuando empiezas a mirar cómo se programa y cómo se usa la lógica de programación. Podremos avanzar al backend solo después de entender este bloque de fundamentos de JavaScript .*
 > 
 
 ### Bases
