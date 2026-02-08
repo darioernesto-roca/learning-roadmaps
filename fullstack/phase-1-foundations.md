@@ -199,9 +199,8 @@ Aprende CSS ahora! curso completo GRATIS desde cero: [https://www.youtube.com/wa
 
 CSS tutorial for beginners: [https://www.youtube.com/watch?v=xv-bBxaa7WU&list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo](https://www.youtube.com/watch?v=xv-bBxaa7WU&list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo)
 
-### Autoevaluación de CSS Estilos modernos y con CSS
-
-> *Cuando termines esta introducción a CSS deberías poder ser capaz de crear una página web con un layout responsive sin usar hacks, sin abusar de !important, y entendiendo por qué una regla gana sobre otra.*
+> **Autoevaluación de CSS Estilos modernos y con CSS**
+*Cuando termines esta introducción a CSS deberías poder ser capaz de crear una página web con un layout responsive sin usar hacks, sin abusar de !important, y entendiendo por qué una regla gana sobre otra.*
 > 
 
 ## JavaScript - Fundamentos sin frameworks
